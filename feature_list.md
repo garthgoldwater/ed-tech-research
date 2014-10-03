@@ -2,8 +2,8 @@
 
 ## guiding ideas
 * univ. && higher-ed value diverse group formation. all research (and real life
-* experience) shows that people tend to form groups with people similar to them.
-* this is a solution for that issue IRL and online
+ experience) shows that people tend to form groups with people similar to them.
+ this is a solution for that issue IRL and online
 
 ## user story (roughly outlined)
 1. sign up
@@ -13,13 +13,13 @@
 4. enters approve/reject mode from button on dashboard
 5. approves/rejects users in course
   * they will have access to a % match, academic interests, and perhaps location
-  * for each user
+   for each user
 6. group(s) is/are created/chosen
 
 ## questions research needs to answer
 * how are we determining % matches
   * looking for various group-formation models -> different models will help
-  * in dealing with issues like 'orphan students'
+   in dealing with issues like 'orphan students'
   * what 'kind' of people make good matches for what 'kinds' of groups
   * this is needed whether we form groups or people choose
 * number of groups a person should be in (1-?)
@@ -33,6 +33,6 @@
 
 ## ideas on what features could look like
 * slack model of group formation: auto-enrolled in groups around your
-* approval/rejection, location, and academic interests. you are free to form
-* others
+ approval/rejection, location, and academic interests. you are free to form
+ others
 
